@@ -4,10 +4,24 @@
     --blanc: #e4e2e2;
 }
 
-body {
+html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
+}
 
+body {
+    background-color: var(--orange-clair);
+}
+
+#page {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-left: 150px; /* laisse place au menu fixe */
+    padding-top: 130px;  /* laisse place au header fixe */
+    box-sizing: border-box;
+    flex: 1;
     background-color: var(--orange-clair);
 }
 
@@ -26,6 +40,7 @@ body {
 
     background-color: var(--noir);
     color: var(--blanc);
+    z-index: 10;
 }
 #titre h1 {
     position: absolute;
@@ -42,7 +57,7 @@ body {
     left: 0;
     bottom: 0;
     width: 150px;
-    z-index: +1;
+    z-index: 10;
 
     background-color: var(--blanc);
     color: var(--noir);
@@ -50,7 +65,6 @@ body {
 #menu ul {
     margin: 20% 0 0 0;
     padding: 0;
-
     list-style-type: none;
 }
 #menu ul li {
@@ -58,52 +72,47 @@ body {
 }
 #menu ul li a {
     padding: 5%;
-
     text-decoration: none;
     color: var(--noir);
     border-left: solid 3px var(--blanc);
     transition: border-color 400ms;
+    display: block;
 }
 #menu ul li a:hover {
     border-color: var(--noir);
 }
 
 #contenu {
-    margin-left: 150px;
-    margin-top: 130px;
-    margin-bottom: 100px;
+    flex: 1;
     padding: 2%;
-    z-index: -1;
     color: var(--noir);
     position: relative;
+    box-sizing: border-box;
 }
-
-#auteurs {
-    margin-left: 150px;
-    height: 100px;
-    background-color: var(--noir);
-    color: var(--blanc);
-}
-#auteurs h2 {
-    padding: 5px;
-    font-size: 1.2em;
-}
-
-/*
-=======================
-    Page
-=======================
-*/
-
 #contenu h2 {
     font-size: 2em;
 }
 #contenu p {
     font-size: 1.2em;
 }
-img {
-    width: 100%;
-    max-width: max-content;
+#contenu li a {
+    color: var(--noir);
+    cursor: pointer;
+    transition: all 0.3s;
+}
+#contenu li a:hover {
+    color: var(--blanc);
+}
+
+#auteurs {
+    height: 100px;
+    background-color: var(--noir);
+    color: var(--blanc);
+    box-sizing: border-box;
+}
+#auteurs h2 {
+    padding: 5px;
+    font-size: 1.2em;
 }
 
 /*
@@ -129,7 +138,6 @@ img {
     flex-direction: column;
     align-items: center;
     position: relative;
-    z-index: 1;
 }
 
 .cartePersonnage figure {

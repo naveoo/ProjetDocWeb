@@ -1,65 +1,99 @@
-Arc de la Saga de la Rencontre (Série principale)
+---
+title: "Bleach"
+---
 
-Épisodes 1 à 20 (Manga chapitres 1 à 8)
+## Résumé des arcs narratifs
 
-    Résumé : L’histoire commence avec Ichigo Kurosaki, un jeune garçon capable de voir des esprits. Il rencontre Rukia Kuchiki, une Shinigami qui protège les vivants des Hollows. Après que Rukia perd ses pouvoirs en combattant un Hollow pour sauver Ichigo, ce dernier reçoit les pouvoirs de Shinigami et devient un substitut Shinigami. Ichigo commence à protéger les vivants et à combattre les Hollows tout en apprenant le monde des Shinigami.
+| Arcs                                        | Date de parution manga         | Date de parution animé          |
+|---------------------------------------------|:-------------------------------:|-------------------------------:|
+| Arc du Shinigami Remplaçant                 | 07/08/2001 à 06/05/2003         | 05/10/2004 à 01/03/2005        |
+| Arc de la Soul Society                      | 13/05/2003 à 23/08/2005         | 08/03/2005 à 01/03/2006        |
+| Arc des Bounts                              | Hors série (pas de manga)       | 08/03/2006 à 17/01/2007        |
+| Arc des Arrancars : Assaut du Hueco Mundo   | 04/09/2003 à 21/01/2008         | 24/01/2007 à 15/01/2008        |
+| Arc des Arrancars : La Lutte Acharnée       | 11/02/2008 à 21/07/2008         | 22/01/2008 à 16/12/2008        |
+| Arc du Nouveau Capitaine : Shūsuke Amagai   | Hors série (pas de manga)       | 23/04/2008 à 07/10/2008        |
+| Arc des Arrancars : La Bataille de Karakura | 04/08/2008 à 17/11/2009         | 23/12/2008 à 06/07/2010        |
+| Arc du passé                                | 04/12/2008 à 04/02/2009         | 10/02/2009 à 24/03/2009        |
+| Les Zanpakutō : L'Autre Histoire            | Hors série (pas de manga)       | 28/07/2009 à 06/04/2010        |
+| Arc des Arrancars : La Chute d’Aizen        | 01/12/2009 à 17/08/2010         | 13/07/2010 à 29/03/2011        |
+| Gotei 13 : L'Armée d'Invasion               | Hors série (pas de manga)       | 12/04/2011 à 04/10/2011        |
+| Arc du Shinigami Remplaçant Perdu           | 31/08/2010 à 21/06/2011         | 05/04/2011 à 04/10/2011        |
+| Arc de la Guerre Sanglante de Mille Ans     | 22/08/2011 à 22/08/2016         | 10/10/2022 à 2025 (en cours)   |
 
-Arc de la Soul Society (Série principale)
+---
 
-Épisodes 21 à 41 (Manga chapitres 9 à 174)
+### Arc du Shinigami Remplaçant (Épisodes 1 à 20)
 
-    Résumé : Rukia est capturée par les Shinigami et condamnée à mort pour avoir donné ses pouvoirs à Ichigo. Ichigo et ses amis (Chad, Orihime et Uryu) infiltrent la Soul Society pour la sauver. Cet arc met en avant la division de la Soul Society et ses capitaines, dont le mystérieux Aizen Sosuke. La bataille culmine avec la révélation d’Aizen comme traître et sa fuite.
+Ichigo Kurosaki devient un Shinigami remplaçant après avoir reçu les pouvoirs de Rukia Kuchiki. Il apprend à purger les Hollows et protéger les âmes tout en découvrant un monde spirituel bien plus vaste que prévu.
 
-Arc de l'Évasion de Hueco Mundo (Série principale)
+---
 
-Épisodes 42 à 63 (Manga chapitres 175 à 317)
+### Arc de la Soul Society (Épisodes 21 à 63)
 
-    Résumé : Aizen s’allie avec les Arrancars et attaque la Soul Society. Ichigo et ses amis partent pour Hueco Mundo, un monde parallèle, pour sauver Orihime, capturée par Aizen. Cet arc introduit des personnages clés comme Grimmjow, Ulquiorra et d’autres Arrancars, tout en mettant en place la lutte contre les forces d’Aizen.
-Arc de la Guerre Sanglante de la Soul Society (Série principale)
+Ichigo et ses alliés infiltrent la Soul Society pour sauver Rukia. Ce périple mène à des combats épiques contre les capitaines et révèle la trahison du capitaine Aizen, qui s'empare de la Hōgyoku.
 
-Épisodes 64 à 108 (Manga chapitres 318 à 423)
+---
 
-    Résumé : L’arc met en place la préparation à la guerre entre les Shinigami et les Arrancars. Ichigo, avec ses nouveaux pouvoirs, devient plus puissant. L’arc se termine avec un affrontement épique contre des membres d’Aizen.
+### Arc des Bounts (Épisodes 64 à 109)
 
-Arc des 1000 Ans de Sang (Série principale)
+Arc filler. Ichigo affronte les Bounts, des êtres immortels se nourrissant d'âmes humaines, menés par Kariya. Cet arc explore des expérimentations liées à la Soul Society et introduit de nouveaux alliés.
 
-Épisodes 109 à 167 (Manga chapitres 424 à 574)
+---
 
-    Résumé : Cet arc présente un groupe de puissants ennemis appelés les Quincy. Leur chef, Yhwach, entre en conflit avec la Soul Society, et un conflit majeur éclate. Ichigo se prépare à sa confrontation avec Yhwach et ses généraux, tout en découvrant de nouveaux aspects de ses pouvoirs.
-Arcs Fillers :
+### Arc des Arrancars : Assaut du Hueco Mundo (Épisodes 110 à 151)
 
-Les arcs fillers sont des épisodes qui ne font pas partie du manga original, mais qui ont été ajoutés dans l’anime. Ils ne sont pas essentiels à l’histoire principale mais apportent parfois plus de contexte aux personnages.
-Arc de Bount (Épisodes 64 à 109)
+Aizen, maintenant allié aux Arrancars, menace le monde humain. Ichigo affronte Grimmjow et découvre ses pouvoirs de Hollow intérieur, tandis que la menace grandit au Hueco Mundo.
 
-    Résumé : Un groupe de créatures appelées Bounts qui sont des immortels aspirant à l'âme humaine. Ichigo et ses amis se retrouvent confrontés à eux.
+---
 
-Arc de la Recherche des Espadas (Épisodes 168 à 189)
+### Arc des Arrancars : La Lutte Acharnée (Épisodes 152 à 167)
 
-    Résumé : Une mission pour chercher et vaincre les Espadas, un groupe d'Arrancars puissants qui servent Aizen. Cet arc est plus léger et met en avant certains personnages secondaires.
+Ichigo, Orihime, Chad et Uryū pénètrent dans le Hueco Mundo pour sauver Orihime, enlevée par Aizen. De nombreux affrontements ont lieu contre les Espadas.
 
-Arc de la Brigade des Vizards (Épisodes 190 à 205)
+---
 
-    Résumé : L’histoire des Vizards, un groupe de Shinigamis ayant acquis des pouvoirs de Hollow, qui cherchent à aider Ichigo à maîtriser ses nouveaux pouvoirs.
+### Arc du Nouveau Capitaine : Shūsuke Amagai (Épisodes 168 à 189)
 
-Arc de l'Indépendance de Karakura Town (Épisodes 266 à 316)
+Arc filler. L'équipe rencontre le capitaine Amagai, qui cache ses intentions réelles. Une conspiration contre la Soul Society est dévoilée.
 
-    Résumé : Cet arc est centré sur la protection de Karakura Town et des personnages secondaires qui font face à des menaces.
-Films Bleach :
+---
 
-Il existe plusieurs films de Bleach qui ne sont pas liés à l’histoire principale. Certains introduisent des personnages originaux et sont souvent considérés comme des histoires parallèles.
+### Arc des Arrancars : La Bataille de Karakura (Épisodes 190 à 205, puis 213 à 229)
 
-    Bleach: Memories of Nobody (2006)
+Les capitaines affrontent les Espadas à Karakura. Urahara et Yoruichi rejoignent la bataille. Les Vizards, anciens Shinigami masqués, interviennent aussi.
 
-        L’histoire suit Ichigo et ses amis alors qu’ils affrontent un esprit mystérieux et une entité appelée "Chain of Fate".
+---
 
-    Bleach: The DiamondDust Rebellion (2007)
+### Arc du passé (Épisodes 206 à 212)
 
-        Cet arc suit un vol d’un artefact sacré de la Soul Society, avec Toshiro Hitsugaya au centre de l’histoire.
+Flashback. Origine des Vizards, trahison d'Aizen et la création des Hollows artificiels. Urahara, Shinji et d'autres sont bannis de la Soul Society.
 
-    Bleach: Fade to Black (2008)
+---
 
-        Un mystérieux phénomène efface les souvenirs de la Soul Society. Ichigo doit retrouver ses alliés et comprendre ce qui s’est passé.
+### Les Zanpakutō : L'Autre Histoire (Épisodes 230 à 265)
 
-    Bleach: Hell Verse (2010)
+Arc filler. Les Zanpakutō prennent forme humaine et se révoltent contre leurs maîtres. Muramasa, un esprit de Zanpakutō, est l’antagoniste principal.
 
-        Cet arc prend place dans l'Enfer, où Ichigo et ses amis affrontent de puissants ennemis.
+---
+
+### Arc des Arrancars : La Chute d’Aizen (Épisodes 266 à 316)
+
+Combat final contre Aizen. Ichigo atteint le Dangai et acquiert l’Ultime Getsuga Tenshō, sacrifiant ses pouvoirs pour vaincre Aizen.
+
+---
+
+### Gotei 13 : L'Armée d'Invasion (Épisodes 317 à 342)
+
+Arc filler. De faux Shinigami envahissent la Soul Society. Kagerōza, un scientifique fou, manipule l’espace-temps et affronte Ichigo.
+
+---
+
+### Arc du Shinigami Remplaçant Perdu (Épisodes 343 à 366)
+
+Ichigo, devenu humain, tente de récupérer ses pouvoirs. Ginjō, ancien Shinigami remplaçant, manipule Ichigo. Ce dernier retrouve ses pouvoirs grâce à Rukia et ses amis.
+
+---
+
+### Arc de la Guerre Sanglante de Mille Ans (Épisodes 367 et suivants)
+
+Yhwach, empereur des Quincy, déclare la guerre à la Soul Society. De nombreux capitaines tombent. Ichigo découvre sa double ascendance Quincy-Shinigami. Arc toujours en cours.
