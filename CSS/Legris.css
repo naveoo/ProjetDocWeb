@@ -8,6 +8,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -95,12 +96,16 @@ body {
 #contenu p {
     font-size: 1.2em;
 }
-#contenu li a {
+#contenu img {
+    width: 100%;
+    max-width: max-content;
+}
+#contenu a {
     color: var(--noir);
     cursor: pointer;
     transition: all 0.3s;
 }
-#contenu li a:hover {
+#contenu a:hover {
     color: var(--blanc);
 }
 
