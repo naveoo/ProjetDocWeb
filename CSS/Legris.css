@@ -1,0 +1,173 @@
+:root {
+    --orange-clair: #ED8636;
+    --noir: #000000;
+    --blanc: #e4e2e2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: var(--orange-clair);
+}
+
+/*
+=======================
+    Template
+=======================
+*/
+
+#titre {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 130px;
+
+    background-color: var(--noir);
+    color: var(--blanc);
+}
+#titre h1 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 5em;
+}
+
+#menu {
+    position: fixed;
+    top: 130px;
+    left: 0;
+    bottom: 0;
+    width: 150px;
+    z-index: +1;
+
+    background-color: var(--blanc);
+    color: var(--noir);
+}
+#menu ul {
+    margin: 20% 0 0 0;
+    padding: 0;
+
+    list-style-type: none;
+}
+#menu ul li {
+    margin: 10%;
+}
+#menu ul li a {
+    padding: 5%;
+
+    text-decoration: none;
+    color: var(--noir);
+    border-left: solid 3px var(--blanc);
+    transition: border-color 400ms;
+}
+#menu ul li a:hover {
+    border-color: var(--noir);
+}
+
+#contenu {
+    margin-left: 150px;
+    margin-top: 130px;
+    margin-bottom: 100px;
+    padding: 2%;
+    z-index: -1;
+    color: var(--noir);
+    position: relative;
+}
+
+#auteurs {
+    margin-left: 150px;
+    height: 100px;
+    background-color: var(--noir);
+    color: var(--blanc);
+}
+#auteurs h2 {
+    padding: 5px;
+    font-size: 1.2em;
+}
+
+/*
+=======================
+    Page
+=======================
+*/
+
+#contenu h2 {
+    font-size: 2em;
+}
+#contenu p {
+    font-size: 1.2em;
+}
+img {
+    width: 100%;
+    max-width: max-content;
+}
+
+/*
+=======================
+    Personnages
+=======================
+*/
+
+.conteneurCartes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.cartePersonnage {
+    background-color: white;
+    border-radius: 10px;
+    width: 300px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.cartePersonnage figure {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.cartePersonnage img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.cartePersonnage h3 {
+    font-size: 1.4em;
+    margin: 10px 0;
+    color: #333;
+    text-align: center;
+}
+
+.cartePersonnage p {
+    font-size: 0.95em;
+    color: #555;
+    margin: 5px 0;
+    text-align: left;
+    width: 100%;
+}
+
+.cartePersonnage ul {
+    padding-left: 20px;
+    margin: 5px 0 10px 0;
+    text-align: left;
+    width: 100%;
+}
+
+.cartePersonnage li {
+    font-size: 0.9em;
+    color: #444;
+    list-style-type: disc;
+}
