@@ -106,7 +106,8 @@ De nombreux Hollows, comme Shrieker et Acidwire, ont démontré cette capacité,
 
 ##### Cero :
 C’est une décharge sphérique d’énergie spirituelle utilisée par les Menos Grande, les Arrancars et les Shinigami ayant acquis des pouvoirs de Hollow. Sa puissance et son temps de charge varient selon l’utilisateur, et bien qu’il soit généralement rouge, il peut aussi être d’autres couleurs. Plusieurs Arrancars et Shinigami Hollowfiés ont développé des variantes uniques du Cero.
-Garganta :
+
+##### Garganta :
 C’est le vide qui existe entre les Trois Mondes, que les Hollows et les Arrancars peuvent utiliser pour se déplacer vers et depuis Hueco Mundo. Kaname Tōsen, Kisuke Urahara et Mayuri Kurotsuchi ont également démontré la capacité de l’utiliser pour se téléporter. Il déchire le tissu dimensionnel séparant les Trois Mondes, révélant un tunnel de Reishi tourbillonnant et torrentiel qu’il faut concentrer et solidifier pour créer un chemin clair.
 
 ##### Kūmon :
