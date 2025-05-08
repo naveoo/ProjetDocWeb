@@ -4,3 +4,5 @@ pandoc MarkDown/index.md -o HTML/index.html --template=templates/template.html -
 pandoc MarkDown/personnages.md -o HTML/personnages.html --template=templates/template.html --metadata-file=MarkDown/variables.yaml
 pandoc MarkDown/races.md -o HTML/races.html --template=templates/template.html --metadata-file=MarkDown/variables.yaml
 pandoc MarkDown/sources.md -o HTML/sources.html --template=templates/template.html --metadata-file=MarkDown/variables.yaml
+pandoc MarkDown/arcs.md -o HTML/arcs.html --template=templates/template.html --metadata-file=MarkDown/variables.yaml
+pandoc MarkDown/organisation.md -o HTML/organisation.html --template=templates/template.html --metadata-file=MarkDown/variables.yaml
