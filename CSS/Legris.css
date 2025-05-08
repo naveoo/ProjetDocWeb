@@ -60,31 +60,80 @@ body {
     top: 130px;
     left: 0;
     bottom: 0;
-    width: 150px;
+    width: 200px;
     z-index: 10;
 
     background-color: var(--blanc);
     color: var(--noir);
+    padding-top: 20px;
 }
+
 #menu ul {
-    margin: 20% 0 0 0;
+    margin: 0;
     padding: 0;
     list-style-type: none;
+    max-height: 90vh;
+    overflow-y: auto;
 }
+
 #menu ul li {
-    margin: 10%;
+    margin: 10px 0;
 }
-#menu ul li a {
-    padding: 5%;
+
+#menu ul li > a {
+    padding: 10px 20px;
     text-decoration: none;
     color: var(--noir);
-    border-left: solid 3px var(--blanc);
-    transition: border-color 400ms;
     display: block;
+    font-weight: bold;
+    border-left: 3px solid transparent;
+    transition: border-color 300ms, background-color 300ms;
 }
-#menu ul li a:hover {
+
+#menu ul li > a:hover {
+    background-color: var(--gris-clair);
     border-color: var(--noir);
 }
+
+#menu ul li > ul {
+    padding-left: 20px;
+}
+
+#menu ul li > ul li {
+    margin: 5px 0;
+}
+
+#menu ul li > ul li a {
+    padding: 8px 20px;
+    color: var(--gris-fonce);
+    font-weight: normal;
+    border-left: 3px solid transparent;
+    transition: border-color 300ms, background-color 300ms;
+}
+
+#menu ul li > ul li a:hover {
+    background-color: var(--gris-clair);
+    border-color: var(--gris-fonce);
+}
+
+#menu ul li > a.active,
+#menu ul li > ul li a.active {
+    background-color: var(--bleu-clair);
+    border-color: var(--bleu-clair);
+}
+
+#menu ul li > a::before {
+    content: '▶';
+    margin-right: 10px;
+    font-size: 0.8em;
+}
+
+#menu ul li > ul li a::before {
+    content: '●';
+    margin-right: 10px;
+    font-size: 0.8em;
+}
+
 
 #contenu {
     flex: 1;
