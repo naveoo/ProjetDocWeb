@@ -4,7 +4,7 @@ title: "Bleach"
 
 ## Résumé des arcs narratifs
 
-| Arcs                                        | Date de parution manga         | Date de parution animé          |
+| Arcs                                        | Date de parution manga          | Date de parution animé          |
 |---------------------------------------------|:-------------------------------:|-------------------------------:|
 | Arc du Shinigami Remplaçant                 | 07/08/2001 à 06/05/2003         | 05/10/2004 à 01/03/2005        |
 | Arc de la Soul Society                      | 13/05/2003 à 23/08/2005         | 08/03/2005 à 01/03/2006        |

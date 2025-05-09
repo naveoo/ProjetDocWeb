@@ -279,4 +279,19 @@ td:nth-child(2) {
 }
 td:nth-child(3) {
     text-align: right;
-}  
+}
+.textRight {
+    text-align: right;
+}
+.textCenter {
+    text-align: center;
+}
+.col1 {
+    width: 40%;;
+}
+.col2 {
+    width: 30%;
+}
+.col3 {
+    width: 29%;
+}
