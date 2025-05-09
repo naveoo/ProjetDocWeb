@@ -72,7 +72,7 @@ body {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    max-height: 90vh;
+    max-height: 80vh;
     overflow-y: auto;
 }
 
@@ -134,10 +134,10 @@ body {
     font-size: 0.8em;
 }
 
-
 #contenu {
     flex: 1;
     padding: 2%;
+    padding-left: 11%;
     color: var(--noir);
     position: relative;
     box-sizing: border-box;
@@ -163,6 +163,7 @@ body {
 
 #auteurs {
     height: 100px;
+    padding-left: 11%;
     background-color: var(--noir);
     color: var(--blanc);
     box-sizing: border-box;
